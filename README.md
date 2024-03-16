@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Millicent Omondi
 #### Data Science | Machine Intelligence
-![Data Science | Machine Intelligence](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Data Science | Machine Intelligence](https://www.shutterstock.com/image-vector/machine-learning-banner-concept-vector-illustration-1536772346)
 
 I'm Millicent from Nairobi, Kenya. I am currently specialising on Machine Intelligence, where I am really enjoying the mathematicals concepts behind machine learning models and then building the models from scratch in python using the given intuition.
 
