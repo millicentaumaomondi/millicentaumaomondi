@@ -4,7 +4,7 @@
 
 I'm Millicent from Nairobi, Kenya. I am currently specialising on Machine Intelligence, where I am really enjoying the mathematicals concepts behind machine learning models and then building the models from scratch in python using the given intuition.
 
-Skills: Python, R, SPSS, Gi
+Skills: Python, R, SPSS, Git and github.
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Foundations of Machine Learning. 
